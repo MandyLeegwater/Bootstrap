@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_02" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_03" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_04" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_05" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_06" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_07" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_08" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h05" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h05/05_02" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h05/05_03" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h05/05_04" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h05/05_05" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h05/05_06" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h05/05_07" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h06" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h06/06_02" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h06/06_03" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h06/06_04" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h06/06_05" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h06/06_06" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h06/06_07" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h07" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h07/07_02" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h07/07_03" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h07/07_04" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h07/07_05" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h07/07_06" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h08" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h08/08_02" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h08/08_03" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h08/08_04" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h08/08_05" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h08/08_06" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h08/08_07" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h08/08_08" />
+      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h08/08_09" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
