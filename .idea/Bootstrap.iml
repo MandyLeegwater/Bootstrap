@@ -2,13 +2,6 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_02" />
-      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_03" />
-      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_04" />
-      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_05" />
-      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_06" />
-      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_07" />
-      <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h04/04_08" />
       <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h05" />
       <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h05/05_02" />
       <excludeFolder url="file://$MODULE_DIR$/Ex_Files_Bootstrap_4_EssT/Exercise Files/h05/05_03" />
